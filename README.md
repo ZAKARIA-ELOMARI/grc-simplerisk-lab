@@ -82,11 +82,3 @@ The mandatory **Statement of Applicability** required by ISO 27001 Clause 6.1.3\
 ### 4\. `04-Audit-Pack/`
 
 Contains the **Evidence Matrix** designed for internal and external auditors. Mapped to the CCCER structure (Condition, Criteria, Cause, Effect, Recommendation) to streamline compliance verification.
-
----
-
-## 👤 Maintainer &amp; Context
-
-* **Author**: Zakaria El Omari
-* **Academic Program**: Cybersecurity &amp; Digital Trust (S5) — ENSET Mohammedia
-* **Certifications &amp; Track**: Fortinet NSE 3 Certified, PJPT Practical Pentesting, ISO 27001 Lead Implementer studies.
