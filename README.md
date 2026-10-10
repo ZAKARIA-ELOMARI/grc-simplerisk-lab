@@ -1,4 +1,3 @@
-```
 # 🛡️ Enterprise Cybersecurity Governance, Risk, and Compliance (GRC) Portfolio
 
 [![Standard: ISO/IEC 27001:2022](https://img.shields.io/badge/Standard-ISO%2FIEC_27001%3A2022-blue.svg)](https://www.iso.org/standard/27001)
@@ -91,7 +90,3 @@ Contains the **Evidence Matrix** designed for internal and external auditors. Ma
 * **Author**: Zakaria El Omari
 * **Academic Program**: Cybersecurity &amp; Digital Trust (S5) — ENSET Mohammedia
 * **Certifications &amp; Track**: Fortinet NSE 3 Certified, PJPT Practical Pentesting, ISO 27001 Lead Implementer studies.
-
----
-
-*This repository is maintained for professional demonstration, audit preparation, and GRC portfolio review.*
